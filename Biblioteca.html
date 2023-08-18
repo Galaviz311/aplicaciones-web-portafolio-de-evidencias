@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Formulario De Regitro</title>
+</head>
+<body>
+		<body bgcolor="navy">
+<br>
+<center>
+	<font color ="orange">
+	<h4>Registro Biblioteca</h4>
+	<forn action="" method="get">
+		Nombre:
+		<input type="text" name="nombre"
+		required="true" maxlength="50">
+		Autor(es):
+		<input type="text" name="nombreautor"
+		required="true" maxlength="100">
+		Editorial:
+		<input type="text" name="nombreeditorial"
+		required="true" maxlength="100">
+		Año:
+		<select name="Año" multiple="" required="true">
+			<option value="2015">2015</option>
+			<option value="2016">2016</option>
+			<option value="2017">2017</option>
+			<option value="2018">2018</option>
+			<option value="2019">2019</option>
+			<option value="2020">2020</option>
+		<select><br><br>
+		Pais:
+		<select name="Pais" multiple="" required="true">
+			<option value="Mexico">Mexico</option>
+			<option value="España">España</option>
+			<option value="Cuba">cuba</option>
+		<select><br><br>
+		Paginas:
+		<input type="number" name="paginas"
+		required="true" min="50"
+		max="200"><br><br>
+		Precio:
+		<input type="number" name="Precio"
+		required="true" min="$100"
+		max="$2000"><br><br>
+		Edicion:
+		<input type="text" name="edicion"
+		required="true" maxlength="100">
+		ISBN
+		<input type="text" name="isbn"
+		required="true" maxlength="100">
+		</form>
+<br>
+<a href="index.html">Regresar</a>
+</center>
+</body>
+</html>

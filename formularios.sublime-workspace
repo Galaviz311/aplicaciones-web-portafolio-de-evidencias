@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"ma",
+				"maxlength"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"b",
+				"br"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/luis-galaviz/Unidad 2/colores.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/luis-galaviz/Unidad 2/principal.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/examen-unidad1/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/hospital/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/zapateria 120/zapateria120.index",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/utdelacosta/index2.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/cine/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/barberia/indexbar.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/veterinaria/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/jugueteria/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/dulceria/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/restaurante/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/fruteria/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/carcel/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/restaurante/index.html restaurante",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/fruteria/asf-logo-wide.svg",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/utdelacosta/logotipout.png",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/utdelacosta/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 10.1/webapps/utdelacosta/asf-logo-wide.svg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "formularios.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

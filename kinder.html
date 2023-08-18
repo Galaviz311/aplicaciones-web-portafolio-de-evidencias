@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Formulario de registro</title>
+</head>
+<body>
+	<body bgcolor="bliue">
+<br>
+<center>
+	<h4>Registro sobre los aspirantes de un kinder</h4>
+	<forn action="" method="get">
+		Nombre:
+		<input type="text" name="nombre"
+		required="true" maxlength="50"><br><br>
+		Edad:
+		<input type="number" name="edad" required="true" min="4"
+		max="7"><br><br>
+		Fecha de nacimiento:
+		<input type="date" name="fechanac"
+		required="true"><br><br>
+		Nombre del padre:
+		<input type="text" name="nombrepadre"
+		required="true" maxlength="50"><br><br>
+		Nombre de la madre:
+		<input type="text" name="nombremadre"
+		required="true"><br><br>
+		Domicilio:
+		<input type="text" name="Domicilio"
+		required="true" maxlength="100"><br><br>
+		Telefono:
+		<input type="tel" name="telefono" required="true" pattern="[0-9] {3}">
+		celular:
+		<input type="cel" name="celular"
+		required="true" pattern="[0-9] {3]">
+		Correo Electronico
+		<input type="email" name="correo"
+		required="true" maxlength="100"><br><br>
+		Municipio:
+		<select name="Municipio" multiple="" required="true">
+			<option value="Tuxpan">Tuxpan</option>
+			<option value="Santiago">Santiago</option>
+			<option value="Ruiz">Ruiz</option>
+			<option value="Villa Hidalgo">Villa Hidalgo</option>
+		<select><br><br>
+		Comentarios 
+		<textarea name="comentarios" rows="5" cols="20"></textarea><br><br>
+		Saludo:
+		<button type="button" onclick="alert('¡hola aspirante! ¿como estas?')">clickea</button><br><br>
+		<input type="submit" name="" value="Guardar">
+		<input tyoe="reset" name="" value="Borrar">
+	</form>
+<br>
+<a href="principal.html">Regresar</a>
+</center>
+</body>
+</html>
